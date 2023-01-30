@@ -1,7 +1,7 @@
 {
     "program": "helloTest.aleo",
-    "version": "0.0.0",
-    "description": "",
+    "version": "0.0.1",
+    "description": "this is a first aleo hello app",
     "development": {
         "private_key": "APrivateKey1zkp4yKj3KCcRHt8y2d5YtjtFwJCB5wwgVJH7EpiEWeCsRnK",
         "address": "aleo1zsavt2dd426303wg8ce97cunyzj5aqzuemfeza8mtqem3v045vgsy8ljr7"
